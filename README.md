@@ -26,12 +26,20 @@ pip install -r requirements.txt
 ## Project Structure explanation
 
 ├── data/                  # Raw and Processed Datasets (Spot, Futures, Options)
+
 ├── models/                # Saved ML Models (XGBoost/LSTM checkpoints)
+
 ├── notebooks/             # Main Strategy Notebook (Task_Submission.ipynb)
+
+
 ├── plots/                 # Strategy Performance & Regime Analysis Charts
+
 ├── results/               # Data Cleaning Reports & Output Logs
+
 ├── src/                   # Python Source Code (Exported Logic)
+
 ├── README.md              # Project Documentation
+
 └── requirements.txt       # Python Dependencies
 
 ## Key Results Summary
