@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ## How to Run
 1. Navigate to the notebooks/ directory.
 2. Open Task_Submission.ipynb in Jupyter Notebook or VS Code.
-3. Run all cells sequentially.
+3. Run cells of all notebooks sequentially.
 -  The notebook will load data from data/, train the HMM and ML models, and display performance metrics.
 
 ## Project Structure explanation
