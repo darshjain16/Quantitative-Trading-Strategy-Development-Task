@@ -1,0 +1,7 @@
+Data Cleaning Report
+====================
+1. Missing Values Handled: Dropped NaNs.
+2. Outliers: Synthetic filtering applied.
+3. Timestamps: Aligned to 5-min intervals.
+4. Contract Rollover: Handled via continuous synthetic futures.
+5. Final Data Shape: (17181, 6)
