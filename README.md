@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ├── models/                # Saved ML Models (XGBoost/LSTM checkpoints)
 
 ├── notebooks/             # 7 Jupyter notebooks: data acquisition, cleaning, feature engineering, regime
-                             detection, baseline strategy, ML models, outlier analysis.
+                     detection, baseline strategy, ML models, outlier analysis.
 
 ├── plots/                 # Strategy Performance & Regime Analysis Charts
 
